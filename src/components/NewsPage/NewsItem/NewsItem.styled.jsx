@@ -108,4 +108,5 @@ export const NewsLink = styled.a`
     cursor: pointer;
     transition: ${p => p.theme.transition.main};
     box-shadow: ${p => p.theme.shadows.section};
+  }
 `;
